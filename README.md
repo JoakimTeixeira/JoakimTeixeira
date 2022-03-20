@@ -7,7 +7,10 @@
   🚀 Seeking new challenges!
 </div>
 <div>
-  💻 React, Angular, Redux, JavaScript, TypeScript, Node, Express, MongoDB, MySQL & PostgreSQL
+  💻 React, Angular, Redux, JavaScript, TypeScript
+</div>
+<div>  
+  🤖 Node, Express, MongoDB, MySQL, PostgreSQL
 </div>
 <div>
   🌎 Portuguese, English & Spanish
