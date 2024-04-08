@@ -1,4 +1,4 @@
-# The senior engineer you trust!
+# The software engineer you trust!
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=JoakimTeixeira&show_icons=true&count_private=true"/>
 
