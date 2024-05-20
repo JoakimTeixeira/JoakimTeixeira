@@ -1,34 +1,17 @@
 # The software engineer you trust!
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=JoakimTeixeira&show_icons=true&count_private=true"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimTeixeira&layout=compact"/>
 
 <br />
-<div>
-  🚀 Seeking new challenges!
-</div>
-<div>
-  💻 React, Angular, Redux, JavaScript, TypeScript
-</div>
-<div>  
-  🤖 Node, Express, MongoDB, MySQL, PostgreSQL
-</div>
-<div>
-  🌎 Portuguese, English & Spanish
-</div>
-<div>
-  📬 Get in touch: 
-</div>
+  <p> 🚀 Seeking new challenges! </p>
+  <p> 💻 React, Angular, Redux, JavaScript, TypeScript </p>
+  <p> 🤖 Node, Express, MongoDB, MySQL, PostgreSQL </p>
+  <p> 🌎 Portuguese, English & Spanish </p>
+  <p> 📬 Get in touch: </p>
 <br />
+
 <div>
-  <a href="https://www.linkedin.com/in/joakimteixeira/?locale=en_US" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joakimteixeira/?locale=en_US"/>
-  </a>
-    
-  <a href="https://twitter.com/JoakimTeixeira" target="_blank" alt="Twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoakimTeixeira"/>
-  </a>
-    
-  <a href="mailto:setokim1@hotmail.com" target="_blank" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:setokim1@hotmail.com"/>
-  </a>  
+  <a href="https://www.linkedin.com/in/joakimteixeira/?locale=en_US" target="_blank" alt="Linkedin"><img height="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joakimteixeira/?locale=en_US"/></a>
+  <a href="https://twitter.com/JoakimTeixeira" target="_blank" alt="Twitter"><img height="30px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/JoakimTeixeira"/></a>
+  <a href="mailto:setokim1@hotmail.com" target="_blank" alt="Gmail"><img height="30px" src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:setokim1@hotmail.com"/></a>  
 </div>
