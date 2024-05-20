@@ -9,7 +9,7 @@
 
 <div>
   <img width="360px" height="210px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoakimTeixeira&show_icons=true&count_private=true&hide_rank=true"/>
-  <img width="360px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimTeixeira&layout=compact"/>  
+  <img width="360px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimTeixeira&layout=compact&langs_count=10"/>  
 </div>
 
 ## Get in touch:
