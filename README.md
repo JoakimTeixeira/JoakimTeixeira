@@ -8,7 +8,7 @@
 <br />
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoakimTeixeira&show_icons=true&count_private=true&hide_rank=false" width="360px" height="210px" alt="GitHub Stats""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoakimTeixeira&show_icons=true&count_private=true&hide_rank=true" width="360px" height="210px" alt="GitHub Stats""/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimTeixeira&layout=compact&langs_count=8&hide=java,c%2B%2B" width="360px" height="210px" alt="Top Langs""/>  
 </div>
 
